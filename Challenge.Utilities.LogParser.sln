@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge.Utilities.LogPars
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge.Utilities.LogParser.Tests", "..\Challenge.Utilities.LogParser.Tests\Challenge.Utilities.LogParser.Tests.csproj", "{974D86DE-80C2-4B26-8205-F2DE3F407DA9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge.Utilities.LogParser.Sample", "..\Challenge.Utilities.LogParser.Sample\Challenge.Utilities.LogParser.Sample.csproj", "{9F19D017-1013-4009-9AD3-944E9D95232E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{974D86DE-80C2-4B26-8205-F2DE3F407DA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{974D86DE-80C2-4B26-8205-F2DE3F407DA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{974D86DE-80C2-4B26-8205-F2DE3F407DA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F19D017-1013-4009-9AD3-944E9D95232E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F19D017-1013-4009-9AD3-944E9D95232E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F19D017-1013-4009-9AD3-944E9D95232E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F19D017-1013-4009-9AD3-944E9D95232E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
